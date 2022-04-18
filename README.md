@@ -2,7 +2,7 @@
 
 As a disclaimer, I didn't think this was the right way to use the technologies. (I don't think this solution was great either.) But, it fit the requirements, was a good learning experience, and took a lot of time.
 
---
+---
 
 This is a repository that holds the cumulative work from the following:
 * [example-proto-types](https://github.com/jncmaguire/example-proto-types), which holds proto definitions
